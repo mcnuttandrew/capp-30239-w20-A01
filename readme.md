@@ -13,4 +13,3 @@ Students who have successfully turned in their assignment (with github profile n
 
 - Andrew McNutt (mcnuttandrew)
 - Carla Solis (ccsuehara)
-
