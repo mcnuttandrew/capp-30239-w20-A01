@@ -1,0 +1,11 @@
+income,education,gender,earning ratio
+28409,Less than high school,Men, 
+36340,High school,Men, 
+43744,Some college or associate's degree,Men, 
+61756,Bachelor's ,Men, 
+80831,Graduate or professional degree,Men, 
+17942,Less than high school graduate,Women,0.63
+24161,High school graduate (includes equivalency),Women,0.66
+29952,Some college or associate's degree,Women,0.68
+42818,Bachelor's degree,Women,0.69
+57686,Graduate or professional degree,Women,0.71
