@@ -1,0 +1,17 @@
+﻿Occupation,average earning ratio,count,num of max/min
+Manage & fin,0.76,0,# ranked the largest ER job
+Computer,0.85,26,# ranked the largest ER job
+Edu & legal,0.81,6,# ranked the largest ER job
+Healthcare,0.77,4,# ranked the largest ER job
+Service,0.76,1,# ranked the largest ER job
+Sales,0.76,2,# ranked the largest ER job
+Natural resources,0.79,11,# ranked the largest ER job
+Production,0.71,1,# ranked the largest ER job
+Manage & fin,0.76,1,# ranked the smallest ER job
+Computer,0.85,1,# ranked the smallest ER job
+Edu & legal,0.81,0,# ranked the smallest ER job
+Healthcare,0.77,8,# ranked the smallest ER job
+Service,0.76,9,# ranked the smallest ER job
+Sales,0.76,7,# ranked the smallest ER job
+Natural resources,0.79,7,# ranked the smallest ER job
+Production,0.71,18,# ranked the smallest ER job
