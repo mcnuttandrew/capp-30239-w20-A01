@@ -1,0 +1,17 @@
+﻿Occupation,average earning ratio,count,num of max/min
+"Management, business, and financial",0.76,0,times being ranked the job with the largest earning ratio
+"Computer, engineering, and science",0.85,26,times being ranked the job with the largest earning ratio
+"Education, legal, community service, arts, and media",0.81,6,times being ranked the job with the largest earning ratio
+Healthcare practitioners and technical,0.77,4,times being ranked the job with the largest earning ratio
+Service,0.76,1,times being ranked the job with the largest earning ratio
+Sales and office,0.76,2,times being ranked the job with the largest earning ratio
+"Natural resources, construction, and maintenance",0.79,11,times being ranked the job with the largest earning ratio
+"Production, transportation, and material moving",0.71,1,times being ranked the job with the largest earning ratio
+"Management, business, and financial",0.76,1,times being ranked the job with the smallest earning ratio
+"Computer, engineering, and science",0.85,1,times being ranked the job with the smallest earning ratio
+"Education, legal, community service, arts, and media",0.81,0,times being ranked the job with the smallest earning ratio
+Healthcare practitioners and technical,0.77,8,times being ranked the job with the smallest earning ratio
+Service,0.76,9,times being ranked the job with the smallest earning ratio
+Sales and office,0.76,7,times being ranked the job with the smallest earning ratio
+"Natural resources, construction, and maintenance",0.79,7,times being ranked the job with the smallest earning ratio
+"Production, transportation, and material moving",0.71,18,times being ranked the job with the smallest earning ratio
