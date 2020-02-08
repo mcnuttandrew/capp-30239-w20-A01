@@ -1,0 +1,62 @@
+[
+  {
+    "income": 28409,
+    "education": "Less than high school",
+    "gender": "Men",
+    "earning ratio": 0.63
+  },
+  {
+    "income": 36340,
+    "education": "High school",
+    "gender": "Men",
+    "earning ratio": 0.66
+  },
+  {
+    "income": 43744,
+    "education": "Associate's degree",
+    "gender": "Men",
+    "earning ratio": 0.68
+  },
+  {
+    "income": 61756,
+    "education": "Bachelor's degree",
+    "gender": "Men",
+    "earning ratio": 0.69
+  },
+  {
+    "income": 80831,
+    "education": "Graduate",
+    "gender": "Men",
+    "earning ratio": 0.71
+  },
+  {
+    "income": 17942,
+    "education": "Less than high school",
+    "gender": "Women",
+    "earning ratio": 0.63
+  },
+  {
+    "income": 24161,
+    "education": "High school",
+    "gender": "Women",
+    "earning ratio": 0.66
+  },
+  {
+    "income": 29952,
+    "education": "Associate's degree",
+    "gender": "Women",
+    "earning ratio": 0.68
+  },
+  {
+    "income": 42818,
+    "education": "Bachelor's degree",
+    "gender": "Women",
+    "earning ratio": 0.69
+  },
+  {
+    "income": 57686,
+    "education": "Graduate",
+    "gender": "Women",
+    "earning ratio": 0.71
+  }
+]
