@@ -12,3 +12,4 @@ Next you will re-familiarize yourself (or simply demonstrate your familiarity) w
 Students who have successfully turned in their assignment (with github profile name):
 
 - Andrew McNutt (mcnuttandrew)
+- Takuya Ando (takando)
